@@ -15,7 +15,7 @@
 		<org.slf4j-version>1.6.6</org.slf4j-version>
 		<querydsl.version>4.0.1</querydsl.version>
 		<!-- Spring Data JPA -->
-		<spring-data-jpa.version>1.9.2.RELEASE</spring-data-jpa.version>
+		<spring-data-jpa.version>1.11.23.RELEASE</spring-data-jpa.version>
 	</properties>
 	<!-- 오라클 JDBC 드라이버를 가져오기 위해 리포지토리를 추가합니다. -->
 	<repositories>
